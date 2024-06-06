@@ -1,0 +1,1306 @@
+{
+    "responseCode": "OD-0101-S",
+    "responseMessage": "處理完成",
+    "totalPage": "14",
+    "totalDataSize": "27232",
+    "page": "10",
+    "pageDataSize": "2000",
+    "responseData": [
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣西螺鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣西螺鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣西螺鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣土庫鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣土庫鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣土庫鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣土庫鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣土庫鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣土庫鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣北港鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣北港鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣北港鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣北港鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣北港鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣北港鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣古坑鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣古坑鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣古坑鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣古坑鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣古坑鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣古坑鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣大埤鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣大埤鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣大埤鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣大埤鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣大埤鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣大埤鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣莿桐鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣莿桐鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣莿桐鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣莿桐鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣莿桐鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣莿桐鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣林內鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣林內鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣林內鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣林內鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣林內鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣林內鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣二崙鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣二崙鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣二崙鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣二崙鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣二崙鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣二崙鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣崙背鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣崙背鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣崙背鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣崙背鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣崙背鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣崙背鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣麥寮鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣麥寮鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣麥寮鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣麥寮鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣麥寮鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣麥寮鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣東勢鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣東勢鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣東勢鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣東勢鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣東勢鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣東勢鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣褒忠鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣褒忠鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣褒忠鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣褒忠鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣褒忠鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣褒忠鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣臺西鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣臺西鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣臺西鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣臺西鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣臺西鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣臺西鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣元長鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣元長鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣元長鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣元長鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣元長鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣元長鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣四湖鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣四湖鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣四湖鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣四湖鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣四湖鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣四湖鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣口湖鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣口湖鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣口湖鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣口湖鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣口湖鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣口湖鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣水林鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣水林鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣水林鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣水林鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣水林鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "雲林縣水林鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣太保市",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣太保市",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣太保市",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣太保市",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣太保市",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣太保市",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣朴子市",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣朴子市",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣朴子市",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣朴子市",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣朴子市",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣朴子市",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣布袋鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣布袋鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣布袋鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣布袋鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣布袋鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣布袋鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣大林鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣大林鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣大林鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣大林鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣大林鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣大林鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣民雄鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣民雄鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣民雄鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣民雄鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣民雄鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣民雄鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣溪口鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣溪口鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣溪口鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣溪口鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣溪口鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣溪口鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣新港鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣新港鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣新港鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣新港鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣新港鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣新港鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣六腳鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣六腳鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣六腳鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣六腳鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣六腳鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣六腳鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣東石鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣東石鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣東石鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣東石鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣東石鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣東石鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣義竹鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣義竹鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣義竹鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣義竹鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣義竹鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣義竹鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣鹿草鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣鹿草鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義縣鹿草鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        }
+    ]
+}

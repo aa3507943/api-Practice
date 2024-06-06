@@ -1,0 +1,2122 @@
+{
+    "responseCode": "OD-0101-S",
+    "responseMessage": "處理完成",
+    "totalPage": "1",
+    "totalDataSize": "352",
+    "page": "1",
+    "pageDataSize": "352",
+    "responseData": [
+        {
+            "Year": "110",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "27"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "19"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "25"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "26"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "38"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "329"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "12"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "58"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "126"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "2781"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "8"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "33"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "31"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "400"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "22"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "97"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "19"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "110",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "17"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "7"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "21"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "37"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "29"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "315"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "12"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "46"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "116"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "2685"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "7"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "25"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "21"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "306"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "16"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "86"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "22"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "109",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "20"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "26"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "30"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "39"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "27"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "323"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "9"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "63"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "95"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "2230"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "9"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "36"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "23"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "339"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "83"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "24"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "108",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "15"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "18"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "25"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "34"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "321"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "68"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "108"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "2369"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "23"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "24"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "347"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "23"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "68"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "22"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "8"
+        },
+        {
+            "Year": "107",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "16"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "23"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "33"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "34"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "499"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "18"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "104"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "168"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "3739"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "30"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "31"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "440"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "8"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "93"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "31"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "9"
+        },
+        {
+            "Year": "106",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "16"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "16"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "20"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "35"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "347"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "281"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "61"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "2085"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "19"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "20"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "235"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "35"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "7"
+        },
+        {
+            "Year": "105",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "23"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "9"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "22"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "390"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "34"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "51"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "2652"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "46"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "229"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "43"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "27"
+        },
+        {
+            "Year": "104",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "8"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "8"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "8"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "32"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "472"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "21"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "46"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "3350"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "20"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "267"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "21"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "17"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "37"
+        },
+        {
+            "Year": "103",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "20"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "21"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "40"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "526"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "58"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "38"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "3817"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "26"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "15"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "65"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "270"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "47"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "102",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "3"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "36"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "645"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "43"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "29"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "4259"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "53"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "61"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "14"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "296"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "2"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "56"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "7"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "101",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "13"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "日本",
+            "sex": "男",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "日本",
+            "sex": "女",
+            "naturalization_total": "12"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "韓國",
+            "sex": "男",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "韓國",
+            "sex": "女",
+            "naturalization_total": "4"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "馬來西亞",
+            "sex": "男",
+            "naturalization_total": "7"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "馬來西亞",
+            "sex": "女",
+            "naturalization_total": "18"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "印尼",
+            "sex": "男",
+            "naturalization_total": "29"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "印尼",
+            "sex": "女",
+            "naturalization_total": "738"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "泰國",
+            "sex": "男",
+            "naturalization_total": "5"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "泰國",
+            "sex": "女",
+            "naturalization_total": "73"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "越南",
+            "sex": "男",
+            "naturalization_total": "11"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "越南",
+            "sex": "女",
+            "naturalization_total": "4514"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "柬埔寨(高棉)",
+            "sex": "女",
+            "naturalization_total": "72"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "緬甸",
+            "sex": "男",
+            "naturalization_total": "26"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "緬甸",
+            "sex": "女",
+            "naturalization_total": "94"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "菲律賓",
+            "sex": "男",
+            "naturalization_total": "10"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "菲律賓",
+            "sex": "女",
+            "naturalization_total": "237"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "美國",
+            "sex": "男",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "美國",
+            "sex": "女",
+            "naturalization_total": "1"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "德國",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "德國",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "義大利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "義大利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "奧地利",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "奧地利",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "新加坡",
+            "sex": "男",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "新加坡",
+            "sex": "女",
+            "naturalization_total": "0"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "其他國家",
+            "sex": "男",
+            "naturalization_total": "34"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "其他國家",
+            "sex": "女",
+            "naturalization_total": "15"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "男",
+            "naturalization_total": "6"
+        },
+        {
+            "Year": "100",
+            "Original_nation": "無國籍(國籍不詳)",
+            "sex": "女",
+            "naturalization_total": "6"
+        }
+    ]
+}

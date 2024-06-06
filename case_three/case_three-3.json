@@ -1,0 +1,1306 @@
+{
+    "responseCode": "OD-0101-S",
+    "responseMessage": "處理完成",
+    "totalPage": "14",
+    "totalDataSize": "27232",
+    "page": "3",
+    "pageDataSize": "2000",
+    "responseData": [
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市中區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市中區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市中區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西屯區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西屯區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西屯區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西屯區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西屯區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市西屯區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南屯區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南屯區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南屯區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南屯區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南屯區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市南屯區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北屯區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北屯區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北屯區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北屯區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北屯區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市北屯區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市豐原區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市豐原區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市豐原區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市豐原區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市豐原區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市豐原區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東勢區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東勢區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東勢區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東勢區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東勢區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市東勢區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大甲區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大甲區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大甲區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大甲區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大甲區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大甲區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市清水區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市清水區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市清水區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市清水區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市清水區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市清水區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市沙鹿區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市沙鹿區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市沙鹿區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市沙鹿區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市沙鹿區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市沙鹿區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市梧棲區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市梧棲區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市梧棲區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市梧棲區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市梧棲區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市梧棲區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市后里區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市后里區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市后里區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市后里區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市后里區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市后里區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市神岡區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市神岡區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市神岡區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市神岡區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市神岡區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市神岡區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市潭子區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市潭子區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市潭子區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市潭子區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市潭子區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市潭子區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大雅區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大雅區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大雅區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大雅區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大雅區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大雅區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市新社區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市新社區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市新社區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市新社區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市新社區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市新社區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市石岡區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市石岡區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市石岡區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市石岡區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市石岡區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市石岡區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市外埔區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市外埔區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市外埔區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市外埔區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市外埔區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市外埔區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大安區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大安區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大安區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大安區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大安區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大安區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市烏日區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市烏日區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市烏日區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市烏日區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市烏日區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市烏日區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大肚區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大肚區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大肚區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大肚區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大肚區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大肚區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市龍井區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市龍井區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市龍井區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市龍井區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市龍井區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市龍井區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市霧峰區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市霧峰區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市霧峰區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市霧峰區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市霧峰區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市霧峰區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市太平區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市太平區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市太平區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市太平區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市太平區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市太平區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大里區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大里區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市大里區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        }
+    ]
+}

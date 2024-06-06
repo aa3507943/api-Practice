@@ -1,0 +1,1306 @@
+{
+    "responseCode": "OD-0101-S",
+    "responseMessage": "處理完成",
+    "totalPage": "14",
+    "totalDataSize": "27232",
+    "page": "6",
+    "pageDataSize": "2000",
+    "responseData": [
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市大社區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市大社區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市大社區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市仁武區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市仁武區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市仁武區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市仁武區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市仁武區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市仁武區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市鳥松區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市鳥松區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市鳥松區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市鳥松區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市鳥松區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市鳥松區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市岡山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市岡山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市岡山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市岡山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市岡山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市岡山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市橋頭區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市橋頭區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市橋頭區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市橋頭區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市橋頭區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市橋頭區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市燕巢區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市燕巢區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市燕巢區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市燕巢區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市燕巢區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市燕巢區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市田寮區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市田寮區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市田寮區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市田寮區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市田寮區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市田寮區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市阿蓮區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市阿蓮區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市阿蓮區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市阿蓮區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市阿蓮區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市阿蓮區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市路竹區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市路竹區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市路竹區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市路竹區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市路竹區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市路竹區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市湖內區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市湖內區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市湖內區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市湖內區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市湖內區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市湖內區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茄萣區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茄萣區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茄萣區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茄萣區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茄萣區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茄萣區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市永安區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市永安區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市永安區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市永安區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市永安區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市永安區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市彌陀區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市彌陀區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市彌陀區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市彌陀區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市彌陀區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市彌陀區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市梓官區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市梓官區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市梓官區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市梓官區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市梓官區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市梓官區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市旗山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市旗山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市旗山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市旗山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市旗山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市旗山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市美濃區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市美濃區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市美濃區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市美濃區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市美濃區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市美濃區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市六龜區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市六龜區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市六龜區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市六龜區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市六龜區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市六龜區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市甲仙區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市甲仙區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市甲仙區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市甲仙區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市甲仙區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市甲仙區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市杉林區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市杉林區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市杉林區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市杉林區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市杉林區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市杉林區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市內門區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市內門區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市內門區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市內門區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市內門區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市內門區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茂林區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茂林區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茂林區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茂林區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茂林區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市茂林區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市桃源區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市桃源區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市桃源區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市桃源區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市桃源區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市桃源區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市那瑪夏區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市那瑪夏區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市那瑪夏區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市那瑪夏區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市那瑪夏區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "高雄市那瑪夏區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣宜蘭市",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣宜蘭市",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣宜蘭市",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣宜蘭市",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣宜蘭市",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣宜蘭市",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣羅東鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣羅東鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣羅東鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣羅東鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣羅東鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣羅東鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣蘇澳鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣蘇澳鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣蘇澳鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣蘇澳鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣蘇澳鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣蘇澳鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣頭城鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣頭城鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣頭城鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣頭城鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣頭城鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣頭城鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣礁溪鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣礁溪鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "宜蘭縣礁溪鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        }
+    ]
+}

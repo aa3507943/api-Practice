@@ -1,0 +1,802 @@
+{
+    "responseCode": "OD-0101-S",
+    "responseMessage": "處理完成",
+    "totalPage": "14",
+    "totalDataSize": "27232",
+    "page": "14",
+    "pageDataSize": "1232",
+    "responseData": [
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市安樂區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市安樂區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市安樂區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市信義區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市信義區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市信義區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市信義區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市信義區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "基隆市信義區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市東區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市東區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市東區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市東區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市東區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市東區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市北區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市北區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市北區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市北區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市北區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市北區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市香山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市香山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市香山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市香山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市香山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新竹市香山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市東區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市東區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市東區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市東區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市東區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市東區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市西區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市西區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市西區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市西區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市西區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "嘉義市西區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金城鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金城鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金城鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金城鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金城鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金城鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金湖鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金湖鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金湖鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金湖鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金湖鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金湖鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金沙鎮",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金沙鎮",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金沙鎮",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金沙鎮",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金沙鎮",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金沙鎮",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金寧鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金寧鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金寧鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金寧鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金寧鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣金寧鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烈嶼鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烈嶼鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烈嶼鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烈嶼鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烈嶼鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烈嶼鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烏坵鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烏坵鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烏坵鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烏坵鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烏坵鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "金門縣烏坵鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣南竿鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣南竿鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣南竿鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣南竿鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣南竿鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣南竿鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣北竿鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣北竿鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣北竿鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣北竿鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣北竿鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣北竿鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣莒光鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣莒光鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣莒光鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣莒光鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣莒光鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣莒光鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣東引鄉",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣東引鄉",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣東引鄉",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣東引鄉",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣東引鄉",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "連江縣東引鄉",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        }
+    ]
+}

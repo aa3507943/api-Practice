@@ -1,0 +1,1322 @@
+{
+    "responseCode": "OD-0101-S",
+    "responseMessage": "處理完成",
+    "totalPage": "14",
+    "totalDataSize": "27232",
+    "page": "2",
+    "pageDataSize": "2000",
+    "responseData": [
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市萬里區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市萬里區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市萬里區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市萬里區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市萬里區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市烏來區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市烏來區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市烏來區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市烏來區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市烏來區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "新北市烏來區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市松山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市松山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市松山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市松山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市松山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市松山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市信義區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市信義區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市信義區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市信義區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市信義區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市信義區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大安區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大安區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大安區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大安區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大安區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大安區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中正區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中正區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中正區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中正區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中正區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市中正區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大同區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大同區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大同區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大同區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大同區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市大同區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市萬華區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市萬華區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市萬華區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市萬華區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市萬華區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市萬華區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市文山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市文山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市文山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市文山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市文山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市文山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市南港區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市南港區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市南港區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市南港區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市南港區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市南港區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市內湖區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市內湖區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市內湖區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市內湖區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市內湖區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市內湖區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市士林區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市士林區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市士林區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市士林區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市士林區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市士林區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市北投區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市北投區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市北投區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市北投區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市北投區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺北市北投區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市桃園區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市桃園區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市桃園區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "3"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市桃園區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市桃園區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "5"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市桃園區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市中壢區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市中壢區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市中壢區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "3"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市中壢區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市中壢區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市中壢區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "4"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大溪區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大溪區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大溪區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大溪區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大溪區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大溪區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市楊梅區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市楊梅區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市楊梅區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "3"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市楊梅區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市楊梅區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市楊梅區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "3"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市蘆竹區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市蘆竹區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市蘆竹區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市蘆竹區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市蘆竹區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市蘆竹區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大園區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大園區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大園區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大園區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大園區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市大園區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龜山區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龜山區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龜山區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "4"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龜山區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龜山區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龜山區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市八德區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市八德區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市八德區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市八德區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市八德區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市八德區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龍潭區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龍潭區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龍潭區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龍潭區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龍潭區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市龍潭區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市平鎮區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市平鎮區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市平鎮區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市平鎮區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市平鎮區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市平鎮區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市新屋區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市新屋區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市新屋區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市新屋區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市新屋區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市新屋區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "2"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市觀音區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市觀音區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市觀音區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市觀音區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市觀音區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市觀音區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市復興區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市復興區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市復興區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市復興區",
+            "mother_age": "15歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市復興區",
+            "mother_age": "16歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "桃園市復興區",
+            "mother_age": "17歲",
+            "birth_sex": "女",
+            "birth_count": "1"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市中區",
+            "mother_age": "15歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市中區",
+            "mother_age": "16歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        },
+        {
+            "statistic_yyy": "110",
+            "according": "按登記日期分",
+            "site_id": "臺中市中區",
+            "mother_age": "17歲",
+            "birth_sex": "男",
+            "birth_count": "0"
+        }
+    ]
+}
