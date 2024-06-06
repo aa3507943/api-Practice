@@ -26,6 +26,8 @@ class CaseOne:
                 if tag["description"] == self.apiName:
                     self.targetApi = f"https://www.ris.gov.tw//rs-opendata/api/v1/datastore/{tag['name']}"
     def get_target_data(self):
+        if not os.path.isdir("./case_one"):
+            os.mkdir("./case_one")
         response = requests.get(self.targetApi)
         jsonData = response.json()
         if response.status_code == 200:
@@ -33,7 +35,7 @@ class CaseOne:
                 response = requests.get(f"{self.targetApi}/?page={page}")
                 if response.status_code == 200:
                     js = json.dumps(response.json(), indent= 4, ensure_ascii= False)
-                    with open("case_one.json", "w+", encoding= "utf-8") as data:
+                    with open("./case_one/case_one.json", "w+", encoding= "utf-8") as data:
                         data.write(js)
                         if page != int(jsonData["totalPage"]):
                             data.write("\n,\n")
